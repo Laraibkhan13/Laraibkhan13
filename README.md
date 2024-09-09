@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I can solve problems, but I lack the patience to wait for the code to compile!**
 <br></br>
-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laraibkhan13" alt="laraibkhan13" /></a> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
