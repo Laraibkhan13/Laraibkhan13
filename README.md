@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MERN, DSA, DBMS**
 
-- 📫 How to reach me **khanlarain174@gmail.com**
+- 📫 How to reach me **khanlaraib174@gmail.com**
 
 - 📄 Know about my experiences [https://laraibsportfolio.netlify.app/#portfolio](https://laraibsportfolio.netlify.app/#portfolio)
 
