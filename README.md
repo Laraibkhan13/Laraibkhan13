@@ -14,7 +14,8 @@
 
 - 📄 Know about my experiences [https://laraibsportfolio.netlify.app/#portfolio](https://laraibsportfolio.netlify.app/#portfolio)
 
-- ⚡ Fun fact: **I can solve problems, but I lack the patience to wait for the code to compile!**
+- ⚡ Fun fact:
+  **I can solve problems, but I lack the patience to wait for the code to compile!**
 <br></br>
 
 
