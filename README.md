@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laraibkhan13&label=Profile%20views&color=0e75b6&style=flat" alt="laraibkhan13" /> </p>
 
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Docker && Firebase**
 
 - 💬 Ask me about **MERN, DSA, DBMS**
 
