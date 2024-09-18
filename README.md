@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Docker && Firebase**
 
-- 💬 Ask me about **MERN, DSA, DBMS**
+- 💬 Ask me about **MERN, DSA, DBMS C++**
 
 - 📫 How to reach me **khanlaraib174@gmail.com**
 
